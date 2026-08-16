@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-467ts5.salamduit.sbs/sitemap.xml
